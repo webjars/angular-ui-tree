@@ -54,7 +54,7 @@
     <scm>
         <url>http://github.com/webjars/angular-ui-tree</url>
         <connection>scm:git:https://github.com/webjars/angular-ui-tree.git</connection>
-        <developerConnection>scm:git:https://github.com/webjarsangular-ui-tree.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/webjars/angular-ui-tree.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
